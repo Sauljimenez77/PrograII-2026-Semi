@@ -10,7 +10,7 @@ import android.widget.Spinner;
 public class MainActivity extends AppCompatActivity {
 
     TextView tempVal;
-    Button btn;
+    Button btn;l
     Spinner spn;
 
     @Override
